@@ -13,4 +13,8 @@ items:
   target: http://lgvea.over-blog.com/
   kind: url
   children: []
+- title: Ressources
+  target: https://stoplgv2030.fr/
+  kind: url
+  children: []
 
