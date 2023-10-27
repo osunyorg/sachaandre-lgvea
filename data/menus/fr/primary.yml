@@ -9,4 +9,8 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+- title: Archives
+  target: http://lgvea.over-blog.com/
+  kind: url
+  children: []
 
