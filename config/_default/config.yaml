@@ -3,6 +3,9 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  logo:
+    header: "/assets/images/logoLGVEA.png"
+    footer: "/assets/images/logoLGVEA.png"
   summary:
     position: hero
   search:
