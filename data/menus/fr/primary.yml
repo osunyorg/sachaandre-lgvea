@@ -17,4 +17,8 @@ items:
   target: https://stoplgv2030.fr/
   kind: url
   children: []
+- title: Contact
+  target: "/contact/"
+  kind: page
+  children: []
 
