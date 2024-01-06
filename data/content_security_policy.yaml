@@ -5,7 +5,4 @@ allowed_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
-  - "assets.mlcdn.com"
-  - "www.w3.org"
   - "assets.mailerlite.com"
-  - "groot.mailerlite.com"
