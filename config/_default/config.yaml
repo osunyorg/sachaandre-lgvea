@@ -10,3 +10,5 @@ params:
     position: hero
   search:
     active: false  
+  debug:
+     productionUrl: "https://www.lgvea.fr"
