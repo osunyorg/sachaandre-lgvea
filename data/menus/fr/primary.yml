@@ -21,4 +21,8 @@ items:
   target: https://stoplgv2030.fr/
   kind: url
   children: []
+- title: Revue de presse
+  target: "/revue-de-presse/"
+  kind: page
+  children: []
 
