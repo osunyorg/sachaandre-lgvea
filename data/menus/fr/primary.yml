@@ -5,6 +5,10 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Revue de presse
+  target: "/revue-de-presse/"
+  kind: page
+  children: []
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -20,9 +24,5 @@ items:
 - title: Ressources
   target: https://stoplgv2030.fr/
   kind: url
-  children: []
-- title: Revue de presse
-  target: "/revue-de-presse/"
-  kind: page
   children: []
 
