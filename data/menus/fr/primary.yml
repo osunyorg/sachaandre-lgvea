@@ -13,7 +13,7 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: 'L''associatio '
+- title: L'association
   target: "/lassociation/"
   kind: page
   children: []
