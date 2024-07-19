@@ -13,10 +13,6 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Contact
-  target: "/contact/"
-  kind: page
-  children: []
 - title: Archives
   target: http://lgvea.over-blog.com/
   kind: url
@@ -24,5 +20,9 @@ items:
 - title: Ressources
   target: https://stoplgv2030.fr/
   kind: url
+  children: []
+- title: 'L''associatio '
+  target: "/lassociation/"
+  kind: page
   children: []
 
