@@ -57,15 +57,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contacts généraux
-    slug: "contacts-generaux"
-    position: 1
-    rank: 2
+    slug: >-
+      contacts-generaux
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -89,6 +97,8 @@ contents:
   - kind: block
     template: contact
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -138,13 +148,17 @@ contents:
       timetable:
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Contact presse
-    slug: "contact-presse"
-    position: 2
-    rank: 2
+    slug: >-
+      contact-presse
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
 
 
 ---

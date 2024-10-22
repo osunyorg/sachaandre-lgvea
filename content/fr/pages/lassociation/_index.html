@@ -53,20 +53,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 23
+  seconds: 26
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Nos luttes et intérêts locaux
-    slug: "nos-luttes-et-interets-locaux"
-    position: 1
-    rank: 2
+    slug: >-
+      nos-luttes-et-interets-locaux
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Lutte contre la LGV et les AFSB
+    slug: >-
+      lutte-contre-la-lgv-et-les-afsb
     ranks:
       self: 3
     data:
@@ -86,17 +94,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       L'association
-    slug: "l-association"
-    position: 2
-    rank: 2
+    slug: >-
+      l-association
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: datatable
     title: >-
       Notre Conseil d'Administration
+    slug: >-
+      notre-conseil-d-administration
     ranks:
       self: 3
     data:
@@ -135,6 +150,8 @@ contents:
     template: files
     title: >-
       Fichiers à télecharger
+    slug: >-
+      fichiers-a-telecharger
     ranks:
       self: 3
     data:
@@ -147,7 +164,6 @@ contents:
 
           title: >-
             Statuts de LGVEA
-
 
 
 
