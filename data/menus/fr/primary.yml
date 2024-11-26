@@ -5,18 +5,22 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Revue de presse
   target: "/revue-de-presse/"
   kind: page
   children: []
+  file: content/fr/pages/revue-de-presse/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: L'association
   target: "/lassociation/"
   kind: page
   children: []
+  file: content/fr/pages/lassociation/_index.html
 - title: Archives
   target: http://lgvea.over-blog.com/
   kind: url
