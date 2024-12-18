@@ -4,33 +4,39 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Revue de presse
   target: "/revue-de-presse/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/revue-de-presse"
   file: content/fr/pages/revue-de-presse/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: L'association
   target: "/lassociation/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Archives
   target: http://lgvea.over-blog.com/
   kind: url
+  new_tab: true
   children: []
 - title: Ressources
   target: https://stoplgv2030.fr/
   kind: url
+  new_tab: true
   children: []
 
