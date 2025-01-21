@@ -5,7 +5,14 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
+  children:
+  - title: Juridique
+    target: "/actualites/juridique/"
+    kind: category
+    new_tab: false
+    children: []
+    path: "/posts_categories/juridique"
+    file: content/fr/posts_categories/juridique/_index.html
 - title: Revue de presse
   target: "/revue-de-presse/"
   kind: page
@@ -37,11 +44,4 @@ items:
   kind: url
   new_tab: true
   children: []
-- title: Juridique
-  target: "/actualites/juridique/"
-  kind: category
-  new_tab: false
-  children: []
-  path: "/posts_categories/juridique"
-  file: content/fr/posts_categories/juridique/_index.html
 
