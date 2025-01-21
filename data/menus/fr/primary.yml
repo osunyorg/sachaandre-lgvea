@@ -6,7 +6,7 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Juridique
+  - title: Juridiques
     target: "/actualites/juridique/"
     kind: category
     new_tab: false
