@@ -37,17 +37,21 @@ design:
 posts_categories:
   - "actualites"
   - "juridique"
-free_categories:
-  - permalink: "/actualites/actualites/"
-    path: "/posts_categories/actualites"
-    slug: "actualites"
-    file: "content/fr/posts_categories/actualites/_index.html"
-    name: "Actualité générales"
-  - permalink: "/actualites/juridique/"
-    path: "/posts_categories/juridique"
-    slug: "juridique"
-    file: "content/fr/posts_categories/juridique/_index.html"
-    name: "Juridique"
+taxonomies:
+  - name: "Catégories"
+    slug: ""
+    categories:
+      - permalink: "/actualites/actualites/"
+        path: "/posts_categories/actualites"
+        slug: "actualites"
+        file: "content/fr/posts_categories/actualites/_index.html"
+        name: "Actualité générales"
+      - permalink: "/actualites/juridique/"
+        path: "/posts_categories/juridique"
+        slug: "juridique"
+        file: "content/fr/posts_categories/juridique/_index.html"
+        name: "Juridique"
+
 
 translationKey: communication-website-post-f20c2875-2c44-429d-add1-639c1c681db9
 
