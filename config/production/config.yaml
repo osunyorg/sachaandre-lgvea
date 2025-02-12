@@ -2,6 +2,11 @@
 
 baseURL: https://www.lgvea.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 2426232f-b01a-4a91-9781-52bbe72ede24
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
