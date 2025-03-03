@@ -6,6 +6,7 @@ params:
   logo:
     header: "/assets/images/logoLGVEA.png"
     footer: "/assets/images/logoLGVEA.png"
+  plausible: lgvea.fr
   summary:
     position: hero
   search:
