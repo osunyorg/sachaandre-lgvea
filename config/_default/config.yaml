@@ -11,3 +11,10 @@ params:
     active: false  
   debug:
      productionUrl: "https://www.lgvea.fr"
+  organizations:
+    single:
+      backlinks: true
+  persons:
+    single:
+      backlinks: true
+      
