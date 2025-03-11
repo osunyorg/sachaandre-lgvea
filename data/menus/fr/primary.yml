@@ -7,12 +7,12 @@ items:
   new_tab: false
   children:
   - title: Générales
-    target: "/actualites/actualites/"
+    target: "/actualites/generale/"
     kind: category
     new_tab: false
     children: []
-    path: "/posts_categories/actualites"
-    file: content/fr/posts_categories/actualites/_index.html
+    path: "/posts_categories/generale"
+    file: content/fr/posts_categories/generale/_index.html
   - title: Juridiques
     target: "/actualites/juridique/"
     kind: category
