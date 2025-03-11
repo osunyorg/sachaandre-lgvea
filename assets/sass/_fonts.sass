@@ -1,8 +1,9 @@
 // @include font-face("Font name", font-file-in-fonts-without-extensions)
 
 //title font
-@include font-face("Minagi Bristone", minagi-bristone, $exts: (ttf))
+@include font-face("Minagi Bristone", minagi/minagi-bristone)
+@include font-face("Minagi Bristone", minagi/minagi-bristone, $weight: 700)
 
 // body fond
-@include font-face("Gabarito", Gabarito-Regular, $exts: (ttf))
-@include font-face("Gabarito", Gabarito-Bold, $weight: 700, $exts: (ttf))
+@include font-face("Gabarito", gabarito/gabarito-v7-latin-regular)
+@include font-face("Gabarito", gabarito/gabarito-v7-latin-700, $weight: 700)
