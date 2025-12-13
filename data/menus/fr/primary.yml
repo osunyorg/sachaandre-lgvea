@@ -46,9 +46,4 @@ items:
   kind: url
   new_tab: true
   children: []
-- title: Ressources
-  target: https://stoplgv2030.fr/
-  kind: url
-  new_tab: true
-  children: []
 
