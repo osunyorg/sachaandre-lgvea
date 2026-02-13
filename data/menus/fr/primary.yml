@@ -2,48 +2,65 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Générales
+    slug: generales
     target: "/actualites/generale/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/generale"
     file: content/fr/posts_categories/generale/_index.html
   - title: Juridiques
+    slug: juridiques
     target: "/actualites/juridique/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/juridique"
     file: content/fr/posts_categories/juridique/_index.html
   - title: Environnementales
+    slug: environnementales
     target: "/actualites/environnement/"
     kind: category
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts_categories/environnement"
     file: content/fr/posts_categories/environnement/_index.html
+  descendants_targets:
+  - "/actualites/environnement/"
+  - "/actualites/generale/"
+  - "/actualites/juridique/"
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: L'association
+  slug: l-association
   target: "/lassociation/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Archives
+  slug: archives
   target: http://lgvea.over-blog.com/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
