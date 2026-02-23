@@ -7,6 +7,11 @@ osuny:
   website:
     id: 2426232f-b01a-4a91-9781-52bbe72ede24
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "lgvea.fr"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
