@@ -107,6 +107,10 @@ from = "/agenda/2025-1/01/"
 to = "/agenda/2025/01/"
 
 [[redirects]]
+from = "/actualites/0007-02-21-lgvea-reconnue-dinteret-general/"
+to = "/actualites/2026-04-23-lgvea-reconnue-dinteret-general/"
+
+[[redirects]]
 from = "/agenda/2025-1/08/"
 to = "/agenda/2025/08/"
 
