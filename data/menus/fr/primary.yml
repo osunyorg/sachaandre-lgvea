@@ -63,4 +63,11 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
+- title: Adhérer
+  slug: adherer
+  target: https://www.helloasso.com/associations/landes-graves-viticulture-environnement-en-arruan/adhesions/adhesion-2026
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
 
