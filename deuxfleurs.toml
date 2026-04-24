@@ -15,114 +15,114 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2025-02-11-permanence-du-mediateur-sncf/"
+from = "/agenda/2025-02-11-permanence-du-mediateur-sncf/index.html"
 to = "/agenda/2025/permanence-du-mediateur-sncf/"
 
 [[redirects]]
-from = "/agenda/2023-11-16-permanence-lgvea/"
+from = "/agenda/2023-11-16-permanence-lgvea/index.html"
 to = "/agenda/2023/permanence-lgvea/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/rgpd/"
 
 [[redirects]]
-from = "/agenda/2025-1/09/"
+from = "/agenda/2025-1/09/index.html"
 to = "/agenda/2025/09/"
 
 [[redirects]]
-from = "/actualites/2025-06-19-faire-financer-le-train-par-le-prive-une-fausse-bonne-idee/"
+from = "/actualites/2025-06-19-faire-financer-le-train-par-le-prive-une-fausse-bonne-idee/index.html"
 to = "/actualites/2025-07-03-faire-financer-le-train-par-le-prive-une-fausse-bonne-idee/"
 
 [[redirects]]
-from = "/agenda/2025-1/06/"
+from = "/agenda/2025-1/06/index.html"
 to = "/agenda/2025/06/"
 
 [[redirects]]
-from = "/actualites/actualites/"
+from = "/actualites/actualites/index.html"
 to = "/actualites/generale/"
 
 [[redirects]]
-from = "/agenda/2025-1/04/"
+from = "/agenda/2025-1/04/index.html"
 to = "/agenda/2025/04/"
 
 [[redirects]]
-from = "/agenda/2025-02-24-reunion-publique-les-alternatives-au-gpso/"
+from = "/agenda/2025-02-24-reunion-publique-les-alternatives-au-gpso/index.html"
 to = "/agenda/2025/reunion-publique-les-alternatives-au-gpso/"
 
 [[redirects]]
-from = "/agenda/2025-1/07/"
+from = "/agenda/2025-1/07/index.html"
 to = "/agenda/2025/07/"
 
 [[redirects]]
-from = "/agenda/2025-1/05/"
+from = "/agenda/2025-1/05/index.html"
 to = "/agenda/2025/05/"
 
 [[redirects]]
-from = "/agenda/2025-1/"
+from = "/agenda/2025-1/index.html"
 to = "/agenda/2025/"
 
 [[redirects]]
-from = "/agenda/2025-1/02/"
+from = "/agenda/2025-1/02/index.html"
 to = "/agenda/2025/02/"
 
 [[redirects]]
-from = "/agenda/2025-1/11/"
+from = "/agenda/2025-1/11/index.html"
 to = "/agenda/2025/11/"
 
 [[redirects]]
-from = "/actualites/avant-juillet-2024/"
+from = "/actualites/avant-juillet-2024/index.html"
 to = "/actualites/generale/"
 
 [[redirects]]
-from = "/agenda/2025-1/03/"
+from = "/agenda/2025-1/03/index.html"
 to = "/agenda/2025/03/"
 
 [[redirects]]
-from = "/agenda/2024-03-11-assemblee-generale-extraordinaire/"
+from = "/agenda/2024-03-11-assemblee-generale-extraordinaire/index.html"
 to = "/agenda/2024/assemblee-generale-extraordinaire/"
 
 [[redirects]]
-from = "/actualites/1998-04-05-refere-suspension-davril-2025-revue-de-presse/"
+from = "/actualites/1998-04-05-refere-suspension-davril-2025-revue-de-presse/index.html"
 to = "/actualites/2025-04-05-refere-suspension-davril-2025-revue-de-presse/"
 
 [[redirects]]
-from = "/agenda/2023-11-22-permanence-lgvea-1/"
+from = "/agenda/2023-11-22-permanence-lgvea-1/index.html"
 to = "/agenda/2023/permanence-lgvea-1/"
 
 [[redirects]]
-from = "/agenda/2025-01-24-assemblee-generale-ordinaire-2025/"
+from = "/agenda/2025-01-24-assemblee-generale-ordinaire-2025/index.html"
 to = "/agenda/2025/assemblee-generale-ordinaire-2025/"
 
 [[redirects]]
-from = "/actualites/2025-01-20-lettre-dinformation-janvier-2025/"
+from = "/actualites/2025-01-20-lettre-dinformation-janvier-2025/index.html"
 to = "/actualites/2025-01-20-lettre-dinformation-octobre-decembre-2024/"
 
 [[redirects]]
-from = "/agenda/2025-1/10/"
+from = "/agenda/2025-1/10/index.html"
 to = "/agenda/2025/10/"
 
 [[redirects]]
-from = "/agenda/2025-1/01/"
+from = "/agenda/2025-1/01/index.html"
 to = "/agenda/2025/01/"
 
 [[redirects]]
-from = "/actualites/0007-02-21-lgvea-reconnue-dinteret-general/"
+from = "/actualites/0007-02-21-lgvea-reconnue-dinteret-general/index.html"
 to = "/actualites/2026-04-23-lgvea-reconnue-dinteret-general/"
 
 [[redirects]]
-from = "/agenda/2025-1/08/"
+from = "/agenda/2025-1/08/index.html"
 to = "/agenda/2025/08/"
 
 [[redirects]]
-from = "/agenda/2025-1/12/"
+from = "/agenda/2025-1/12/index.html"
 to = "/agenda/2025/12/"
 
 [[redirects]]
-from = "/agenda/2025-03-21-le-printemps-du-ciron/"
+from = "/agenda/2025-03-21-le-printemps-du-ciron/index.html"
 to = "/agenda/2025/le-printemps-du-ciron/"
 
 [[redirects]]
-from = "/agenda/2024-02-21-permanence-dinformations/"
+from = "/agenda/2024-02-21-permanence-dinformations/index.html"
 to = "/agenda/2024/permanence-dinformations/"
 
