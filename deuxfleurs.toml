@@ -23,6 +23,10 @@ from = "/agenda/2023-11-16-permanence-lgvea/index.html"
 to = "/agenda/2023/permanence-lgvea/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/cp-251103-v1-1pdf/"
+
+[[redirects]]
 from = "/politique-de-confidentialite/index.html"
 to = "/rgpd/"
 
